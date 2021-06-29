@@ -1,2 +1,2 @@
-# Consumo_de_api
+# Consumo de API
 Este projeto é para treinar o consumo de APIs, com a linguagem JavaScript
