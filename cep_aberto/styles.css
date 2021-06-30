@@ -24,12 +24,8 @@ input{
 
 .endereco{
     display: grid;
-    grid-template-columns: 300px 300px 300px;
+    grid-template-columns: 300px 300px;
     align-items: center;
     justify-content: center;
-    padding: 30px;
-}
-
-.endereco input{
-    margin: 10px 2px 0px 0px; 
+    margin-top: 15px;
 }
